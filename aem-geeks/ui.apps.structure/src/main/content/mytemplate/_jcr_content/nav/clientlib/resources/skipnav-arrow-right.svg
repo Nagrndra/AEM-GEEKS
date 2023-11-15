@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53 (72520) - https://sketchapp.com -->
+    <title>F592B937-5DB5-4D4E-9275-516B1630CCEB</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Skip-to-content" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skip-to-content/Single-link-options" transform="translate(-197.000000, -279.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="773"></rect>
+            <g id="Navigation-/-Desktop-/-My-Account" transform="translate(0.000000, 251.000000)">
+                <rect id="Background" x="0" y="0" width="1440" height="120"></rect>
+                <g id="Group-2">
+                    <rect id="Rectangle-Copy-11" fill="#DDDDDD" x="0" y="0" width="1440" height="40"></rect>
+                    <g id="Stacked-Group" transform="translate(142.000000, 11.000000)" fill="#333333" font-family="BTFont-Regular, BT Font" font-size="14" font-weight="normal" line-spacing="19">
+                        <text id="For-the-home">
+                            <tspan x="0" y="14">For the home</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-2" transform="translate(10.000000, 261.000000)">
+                <rect id="Rectangle-Copy-11" fill="#333333" x="0" y="0" width="202" height="41"></rect>
+                <g id="Stacked-Group" transform="translate(10.000000, 10.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <g id="Other-/-CTA-/-Link-/-Body-/-arrow" transform="translate(177.000000, 0.000000)">
+                        <polygon id="Path-2" points="0 8.76715867 0.767158672 8 4.76715867 12 0.767158672 16 0 15.2328413 3.23284133 12"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
